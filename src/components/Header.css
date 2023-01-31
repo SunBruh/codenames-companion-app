@@ -1,0 +1,10 @@
+.Header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100px;
+}
+
+.Header h1 {
+  font-family: "Signika Negative", sans-serif;
+}

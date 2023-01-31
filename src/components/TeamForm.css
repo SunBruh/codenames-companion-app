@@ -1,0 +1,28 @@
+.TeamForm {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border: 1px solid black;
+  border-radius: 10px;
+  width: 400px;
+  background-color: white;
+  position: absolute;
+  padding: 20px 0 20px 0;
+  top: 250px;
+  box-shadow: 5px 5px 20px 1px black;
+}
+
+.TeamForm .team-div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.TeamForm input,
+select,
+label {
+  margin-bottom: 10px;
+}
+.TeamForm select {
+  margin-left: 5px;
+}

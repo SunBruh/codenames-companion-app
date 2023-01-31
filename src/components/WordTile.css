@@ -1,0 +1,11 @@
+.WordTile {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 120px;
+  height: 65px;
+  background-color: #f1d592;
+  border-radius: 10px;
+  margin: 0px 5px 10px 5px;
+  border: 1px solid grey;
+}

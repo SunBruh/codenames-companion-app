@@ -1,0 +1,23 @@
+.Tile {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 120px;
+  height: 65px;
+  border-radius: 10px;
+}
+
+.red {
+  background-color: red;
+}
+
+.blue {
+  background-color: blue;
+}
+.white {
+  background-color: #fffdd0;
+}
+
+.black {
+  background-color: black;
+}
